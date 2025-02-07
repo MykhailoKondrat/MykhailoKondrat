@@ -5,7 +5,7 @@ Currently, I’m working as a software developer at Ericsson.
 
 In my day-to-day work, I use TypeScript, React, Python, and FastAPI.
 
-In my free time, I work on projects with Express, Golang, Next.js, and basically any technology that is new to me and seems interesting.
+In my free time, I like to develop cool things with some technologies I don't have a chance to use in my daily work. 
 <a href="https://personal-website-git-main-mykhailokondrats-projects.vercel.app">Personal website, under construction...</a>
 
 ### My projects
