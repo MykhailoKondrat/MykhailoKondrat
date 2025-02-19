@@ -6,7 +6,8 @@ Currently, I’m working as a software developer at Ericsson.
 In my day-to-day work, I use TypeScript, React, Python, and FastAPI.
 
 In my free time, I like to develop cool things with some technologies I don't have a chance to use in my daily work. 
-<a href="https://personal-website-git-main-mykhailokondrats-projects.vercel.app">Personal website, under construction...</a>
+
+<a href="https://www.kondrat.dev">Personal website</a>
 
 ### My projects
 <a href="https://fitnessdiary-7595a.web.app/auth">Fitness Tracker App</a>  - my first project with React
